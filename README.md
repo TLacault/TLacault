@@ -1,22 +1,33 @@
-<h1 align="center">Hi 👋, I'm Tim</h1>
-<h3 align="center">A Junior Developer & IT Student</h3>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
+min-width="340px" max-width="400px" width="340px" align="right" alt="Computador">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tlacault&label=Profile%20views&color=9ABFCE&style=flat" alt="tlacault" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tlacault" alt="tlacault" /></a> </p>
-
-- 🌱 I’m currently learning **Shell scripting**
-
-- 👨‍💻 All of my projects are available at [dev-tlacault.eu](dev-tlacault.eu)
-
-- 📫 How to reach me **contact@dev-tlacault.eu**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/tim-lacault/](https://www.linkedin.com/in/tim-lacault/)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/tim-lacault/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tim-lacault" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15234695/tim-lacault" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tim lacault" height="30" width="40" /></a>
+Hey, I'm <strong>Tim</strong>, a junior developper and IT student passionate about productivity hacks.
+
+I first studied in a private programming school for 2 years. There, I learned few technos like <strong>bash</strong>, <strong>c</strong>, <strong>c++</strong>, <strong>python</strong>, <strong>docker</strong>. I also entered unix world and never left it since 2020. Btw, been using Arch for a while.
+
+I'm currently stuying at university, where I'm learning a lot about software development. Will graduate in 2026.
+
+I'm passionate about <strong>[productivity tools](https://www.notion.so/)</strong>, <strong>[unix customization](https://www.reddit.com/r/unixporn/)</strong>, and <strong>automations scripts</strong>.
+
+I have worked for 6 monts as an <strong>[intern application developer](https://github.com/TLacault/internship)</strong>. Used <strong>JavaScript</strong> and <strong>JSON</strong> to build an electric car dashboard, <strong>Markdown</strong> and <strong>NodeRed</strong> to created a diagnostic system base on the car component's alerts and datas.
+
 </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tlacault&count_private=true&theme=nord&show_icons=true" alt="tlacault" /></p>
+<div>
+  <a href="https://github.com/TLacault">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tlacault&count_private=true&theme=nord&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlacault&layout=compact&langs_count=7&theme=nord"/>
+</div>
+
+ <br />
+
+<p align="left">
+  <strong>Skills :</strong> HTML5, CSS3, JavaScript, Bootstrap, Materialize, Flutter, Java, Kotlin, Swift, Objetive-c.
+</p>
+
+<p align="left">
+  💼 <strong>Tools :</strong> Visual Studio Code, Android Studio, Xcode and Git.
+</p>
+
+Contact me at <a href="mailto:contact@dev-tlacault.com">
