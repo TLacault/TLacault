@@ -19,4 +19,4 @@
 <a href="https://stackoverflow.com/users/15234695/tim-lacault" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tim lacault" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tlacault&show_icons=true&title_color=9ABFCE&text_color=EDEFF3&bg_color=3d4250&hide_border=true&locale=en" alt="tlacault" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tlacault&count_private=true&theme=nord&show_icons=true" alt="tlacault" /></p>
