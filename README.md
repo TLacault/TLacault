@@ -7,7 +7,7 @@ min-width="340px" max-width="400px" width="340px" align="right" alt="Computador"
 
 I'm <strong>Tim</strong>, a <strong>junior developer</strong> and <strong>IT student</strong> passionate about productivity and automation.
 
-I first studied in a private programming school for 2 years. There, I learned few languages like <strong>Bash / Shell Scripting</strong>, <strong>C</strong>, <strong>C++</strong>, <strong>Python</strong>, <strong>Docker</strong>. I also entered <strong>unix</strong> world and never left it since 2020. Btw, been using [Arch](https://garudalinux.org/) for a while.
+I first studied in a private programming school for 2 years. There, I learned few languages like <strong>Bash / Shell Scripting</strong>, <strong>C</strong>, <strong>C++</strong>, <strong>Python</strong>, <strong>Docker</strong>. I also entered <strong>unix</strong> world and never left it since 2020. Btw, been using <strong>[Arch](https://garudalinux.org/)</strong> for a while.
 I'm currently studying at university, where I'm learning a lot about software development. Will graduate in 2026.
 
 I have worked for 6 months as an <strong>[intern application developer](https://github.com/TLacault/internship)</strong>. Used <strong>JavaScript</strong> and <strong>JSON</strong> to build a car dashboard, <strong>Markdown</strong> and <strong>NodeRed</strong> to created a diagnostic system based on the car component's alerts and data.
