@@ -2,9 +2,9 @@
 min-width="340px" max-width="400px" width="340px" align="right" alt="Computador">
 
 <p align="left">
-Hey, I'm <strong>Tim</strong>, a junior developper and IT student passionate about productivity hacks.
+Hey, I'm <strong>Tim</strong>, a <strong>junior developper</strong> and <strong>IT student</strong> passionate about productivity and automation.
 
-I first studied in a private programming school for 2 years. There, I learned few technos like <strong>bash</strong>, <strong>c</strong>, <strong>c++</strong>, <strong>python</strong>, <strong>docker</strong>. I also entered unix world and never left it since 2020. Btw, been using Arch for a while.
+I first studied in a private programming school for 2 years. There, I learned few languages like <strong>Bash / Shell Scripting</strong>, <strong>C</strong>, <strong>C++</strong>, <strong>Python</strong>, <strong>Docker</strong>. I also entered unix world and never left it since 2020. Btw, been using Arch for a while.
 
 I'm currently stuying at university, where I'm learning a lot about software development. Will graduate in 2026.
 
@@ -14,20 +14,14 @@ I have worked for 6 monts as an <strong>[intern application developer](https://g
 
 </p>
 
-<div>
-  <a href="https://github.com/TLacault">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tlacault&count_private=true&theme=nord&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlacault&layout=compact&langs_count=7&theme=nord"/>
-</div>
+<a href="https://github.com/TLacault">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tlacault&count_private=true&theme=nord&show_icons=true"/>
+</href>
 
- <br />
+<br />
 
-<p align="left">
-  <strong>Skills :</strong> HTML5, CSS3, JavaScript, Bootstrap, Materialize, Flutter, Java, Kotlin, Swift, Objetive-c.
-</p>
+* <strong>Skills :</strong>C & Objetive-c, C++, Python,
 
-<p align="left">
-  💼 <strong>Tools :</strong> Visual Studio Code, Android Studio, Xcode and Git.
-</p>
+* <strong>Tools :</strong> Visual Studio Code, Jetbrains suite, Emacs / Nvim, Docker & Git.
 
-Contact me at <a href="mailto:contact@dev-tlacault.com">
+* <strong>Contact : contact@dev-tlacault.eu</strong>
