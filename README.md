@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tlacault" alt="tlacault" /></a> </p>
 
-- 🌱 I’m currently learning **Web Dev**
+- 🌱 I’m currently learning **Shell scripting**
 
 - 👨‍💻 All of my projects are available at [dev-tlacault.eu](dev-tlacault.eu)
 
