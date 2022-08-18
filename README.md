@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
 <h3 align="center">A Junior Developer & IT Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tlacault&label=Profile%20views&color=ad666c&style=flat" alt="tlacault" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tlacault&label=Profile%20views&color=9ABFCE&style=flat" alt="tlacault" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tlacault" alt="tlacault" /></a> </p>
 
