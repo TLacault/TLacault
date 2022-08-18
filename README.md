@@ -3,7 +3,7 @@ min-width="340px" max-width="400px" width="340px" align="right" alt="Computador"
 
 <p align="left">
 
-<h2>Hey, I'm <strong>Tim</strong>, a <strong>junior developer</strong> and <strong>IT student</strong> passionate about productivity and automation.</h2>
+<h3>Hey, I'm <strong>Tim</strong>, a <strong>junior developer</strong> and <strong>IT student</strong> passionate about productivity and automation.</h2>
 
 I first studied in a private programming school for 2 years. There, I learned few languages like <strong>Bash / Shell Scripting</strong>, <strong>C</strong>, <strong>C++</strong>, <strong>Python</strong>, <strong>Docker</strong>. I also entered <strong>unix</strong> world and never left it since 2020. Btw, been using [Arch](https://garudalinux.org/) for a while.
 
