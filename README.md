@@ -21,8 +21,6 @@ I'm passionate about <strong>[productivity tools](https://www.notion.so/)</stron
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tlacault&count_private=true&theme=nord&show_icons=true"/>
 
-* <strong>Skills : </strong>C & Objetive-c, C++, Python, Bash
-
 * <strong>Tools : </strong> Visual Studio Code, Jetbrains suite, Emacs / Nvim, Docker and Git.
 
 * <strong>Contact : contact@dev-tlacault.eu</strong>/
