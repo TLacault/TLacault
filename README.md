@@ -23,4 +23,4 @@ I'm passionate about <strong>[productivity tools](https://www.notion.so/)</stron
 
 * <strong>Tools : </strong> Visual Studio Code, Jetbrains suite, Emacs / Nvim, Docker and Git.
 
-* <strong>Contact : contact@dev-tlacault.eu</strong>/
+* <strong>Contact : contact@dev-tlacault.eu</strong>
