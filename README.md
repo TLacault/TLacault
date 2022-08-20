@@ -37,7 +37,5 @@ I'm passionate about <strong>[productivity tools](https://www.notion.so/)</stron
 
 <h2 align="left">Contact :</h2>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lacault.tim@gmail.com?)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@dev-tlacault.eu?)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tim-lacault/)
-
-* <strong>Contact : contact@dev-tlacault.eu</strong>
