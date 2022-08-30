@@ -26,8 +26,9 @@ I'm passionate about <strong>[productivity tools](https://www.notion.so/)</stron
 <p align="left">
 <h2>Some Stats</h2>
 
-[![stats](https://github-readme-stats.vercel.app/api?username=tlacault&theme=nord&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/TLacault)[![streak](https://github-readme-streak-stats.herokuapp.com/?user=tlacault&theme=nord&hide_border=false)](https://github.com/TLacault)
-[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlacault&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/TLacault)
+[![stats](https://github-readme-stats.vercel.app/api?username=tlacault&theme=nord&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/TLacault)
+[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlacault&theme=nord&hide_border=false&include_all_commits=true&count_private=true&langs_count=6&layout=compact)](https://github.com/TLacault)
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=tlacault&theme=nord&hide_border=false)](https://github.com/TLacault)
 </p>
 
 <p align="left">
