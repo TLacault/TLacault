@@ -1,8 +1,8 @@
 <h2 align="center">Hi 👋🏻, I'm Tim Lacault</h2>
 <h3 align="center">Junior Dev & IT Student 📚</br>
 Passionate about Productivity 📌 and Automation ⚙️</h3>
-
 <p align="center">
+<a href="https://github.com/TLacault"> <img src="readme_res/logo.png" width="100" height="100"> </a>
 <a href="mailto:contact@dev-tlacault.eu?" target="_blank"><img alt="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center"/> </a>
 <a href="https://www.linkedin.com/in/tim-lacault" target="_blank"><img alt="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:center"/> </a>
 <a href="https://stackoverflow.com/users/15234695" target="_blank"><img alt="" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" style="vertical-align:center"/> </a>
@@ -13,7 +13,7 @@ Passionate about Productivity 📌 and Automation ⚙️</h3>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
 min-width="340px" max-width="400px" width="340px" align="right" alt="Computador">
 <p align="left">
-I first studied in a private programming school for 2 years. There, I learned few languages like <strong>Bash / Shell Scripting</strong>, <strong>C</strong>, <strong>C++</strong>, <strong>Python</strong>, <strong>Docker</strong>. I also entered <strong>unix</strong> world and never left it since 2020. Btw, been using an <strong>Arch linux</strong> based distribution for a while now.
+I first studied in a private programming school for 2 years. There, I learned few languages like <strong>Bash / Shell Scripting</strong>, <strong>C</strong>, <strong>C++</strong>, <strong>Python</strong>, <strong>Docker</strong>. I also entered <strong>unix</strong> world and never left it since 2020. Btw, been using an <strong>[Arch linux]()</strong> based distribution for a while now.
 
 I'm currently studying at university, where I'm learning a lot about software development. Will graduate in 2026.
 
