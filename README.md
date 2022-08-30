@@ -1,7 +1,8 @@
 <h2 align="center">Hi 👋🏻, I'm Tim Lacault</h2>
 
 <p align="center">
-<a href="mailto:contact@dev-tlacault.eu?" target="_blank"><img alt="" src="https://forthebadge.com/generator/?plabel=CONTACT&slabel=ME"/> </a>
+<a href="mailto:contact@dev-tlacault.eu?" target="_blank"><img alt="" src="https://img.shields.io/static/v1?label=<CONTACT>&message=<ME>&color=<BLUE>
+"/> </a>
 <a href="https://www.linkedin.com/in/tim-lacault" target="_blank"><img alt="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:center"/> </a>
 <a href="https://stackoverflow.com/users/15234695" target="_blank"><img alt="" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" style="vertical-align:center"/> </a>
 <a href="https://github.com/TLacault" target="_blank"><img alt="" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" style="vertical-align:center"/> </a>
