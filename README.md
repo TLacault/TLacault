@@ -2,7 +2,7 @@
 <h3 align="center">Junior Dev & IT Student 📚</br>
 Passionate about Productivity 📌 and Automation ⚙️</h3>
 <p align="center">
-<a href="https://github.com/TLacault"> <img src="readme_res/contact_me.svg" width="100" height="20"> </a>
+<a href="https://github.com/TLacault"> <img src="readme_res/contact_me.svg" width="150" height="50"> </a>
 <a href="mailto:contact@dev-tlacault.eu?" target="_blank"><img alt="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center"/> </a>
 <a href="https://www.linkedin.com/in/tim-lacault" target="_blank"><img alt="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:center"/> </a>
 <a href="https://stackoverflow.com/users/15234695" target="_blank"><img alt="" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" style="vertical-align:center"/> </a>
