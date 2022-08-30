@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋🏻, I'm Tim Lacault</h2>
-<h3 align="center">Junior Dev & IT Student 📚</h3>
-<h3 align="center">Passionate about Productivity 📈 and Automation ⚙️</h3>
+<h3 align="center">Junior Dev & IT Student 📚</br>
+Passionate about Productivity 📈 and Automation ⚙️</h3>
 
 <p align="center">
 <a href="mailto:contact@dev-tlacault.eu?" target="_blank"><img alt="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center"/> </a>
