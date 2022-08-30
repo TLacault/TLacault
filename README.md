@@ -17,6 +17,7 @@ I'm passionate about <strong>[productivity tools](https://www.notion.so/)</stron
 </p>
 
 [<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tlacault&count_private=true&theme=nord&show_icons=true"/>](https://github.com/TLacault)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlacault&layout=compact&langs_count=6)](https://github.com/TLacault)
 
 <h2 align="left">Technologies & Tools :</h2>
 <p align="left">
