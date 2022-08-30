@@ -1,11 +1,9 @@
-
-<p align="center">
 <h2 align="center">Hi 👋🏻, I'm Tim Lacault</h2>
 
+<p align="center">
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@dev-tlacault.eu?)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tim-lacault/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15234695)
-
 </p>
 
 <h2>About Me</h2>
