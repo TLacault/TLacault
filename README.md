@@ -2,7 +2,7 @@
 <h3 align="center">Junior Dev & IT Student 📚</br>
 Passionate about Productivity 📌 and Automation ⚙️</h3>
 <p align="center">
-<a href="mailto:contact@dev-tlacault.eu?" target="_blank"><img alt="" src="https://img.shields.io/badge/CONTACT-ME-blue?style=for-the-badge&logo=appveyor&logo=false&labelColor=4C566A&color=D8DEE9" style="vertical-align:center"/> </a>
+<a href="mailto:contact@dev-tlacault.eu?" target="_blank"><img alt="" src="https://img.shields.io/badge/📨 CONTACT-ME-blue?style=for-the-badge&logo=appveyor&logo=false&labelColor=4C566A&color=D8DEE9" style="vertical-align:center"/> </a>
 <a href="https://www.linkedin.com/in/tim-lacault" target="_blank"><img alt="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:center"/> </a>
 <a href="https://stackoverflow.com/users/15234695" target="_blank"><img alt="" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" style="vertical-align:center"/> </a>
 <a href="https://github.com/TLacault" target="_blank"><img alt="" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" style="vertical-align:center"/> </a>
