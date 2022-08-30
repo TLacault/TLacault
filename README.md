@@ -8,7 +8,7 @@ Passionate about Productivity and Automation</h3>
 <a href="https://github.com/TLacault" target="_blank"><img alt="" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" style="vertical-align:center"/> </a>
 </p>
 
-<h2>About Me 👨🏻‍💻</h2>
+<h2>About Me</h2>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
 min-width="340px" max-width="400px" width="340px" align="right" alt="Computador">
 <p align="left">
@@ -23,7 +23,7 @@ I'm passionate about <strong>[productivity tools](https://www.notion.so/)</stron
 </p>
 
 <p align="left">
-<h2>Technologies & Tools 💻</h2>
+<h2>Technologies & Tools</h2>
 
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/TLacault/dotfile-manager)
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/TLacault/c)
@@ -46,7 +46,7 @@ I'm passionate about <strong>[productivity tools](https://www.notion.so/)</stron
 </p>
 
 <p align="left">
-<h2>GitHub Stats 📊</h2>
+<h2>GitHub Stats</h2>
 
 [![stats](https://github-readme-stats.vercel.app/api?username=tlacault&theme=nord&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/TLacault)
 [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlacault&theme=nord&hide_border=false&include_all_commits=true&count_private=true&langs_count=6&layout=compact)](https://github.com/TLacault)
