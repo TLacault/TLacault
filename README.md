@@ -25,14 +25,6 @@ I'm passionate about <strong>[productivity tools](https://www.notion.so/)</stron
 </p>
 
 <p align="left">
-<h2>Some Stats</h2>
-
-[![stats](https://github-readme-stats.vercel.app/api?username=tlacault&theme=nord&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/TLacault)
-[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlacault&theme=nord&hide_border=false&include_all_commits=true&count_private=true&langs_count=6&layout=compact)](https://github.com/TLacault)
-[![streak](https://github-readme-streak-stats.herokuapp.com/?user=tlacault&theme=nord&hide_border=false)](https://github.com/TLacault)
-</p>
-
-<p align="left">
 <h2>Technologies & Tools</h2>
 
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/TLacault/dotfile-manager)
@@ -53,4 +45,12 @@ I'm passionate about <strong>[productivity tools](https://www.notion.so/)</stron
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org/)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
+</p>
+
+<p align="left">
+<h2>Some Stats</h2>
+
+[![stats](https://github-readme-stats.vercel.app/api?username=tlacault&theme=nord&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/TLacault)
+[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlacault&theme=nord&hide_border=false&include_all_commits=true&count_private=true&langs_count=6&layout=compact)](https://github.com/TLacault)
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=tlacault&theme=nord&hide_border=false)](https://github.com/TLacault)
 </p>
