@@ -8,10 +8,10 @@
 
 </p>
 
+<h2>About Me</h2>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
 min-width="340px" max-width="400px" width="340px" align="right" alt="Computador">
 <p align="left">
-<h2>About Me</h2>
 
 I'm a <strong>junior developer</strong> and <strong>IT student</strong> passionate about productivity and automation.
 
@@ -34,7 +34,7 @@ I'm passionate about <strong>[productivity tools](https://www.notion.so/)</stron
 </p>
 
 <p align="left">
-<h2>Technologies & Tools :</h2>
+<h2>Technologies & Tools</h2>
 
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/TLacault/dotfile-manager)
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/TLacault/c)
