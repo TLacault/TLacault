@@ -31,9 +31,13 @@ I'm passionate about <strong>[productivity tools](https://www.notion.so/)</stron
 
 <p align="left">
 <h2>Some Stats</h2>
-![stats](https://github-readme-stats.vercel.app/api?username=tlacault&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![languages](https://github-readme-streak-stats.herokuapp.com/?user=tlacault&theme=nord&hide_border=false)<br/>
-![streak](https://github-readme-stats.vercel.app/api/top-langs/?username=tlacault&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- [<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tlacault&count_private=true&theme=nord&show_icons=true"/>](https://github.com/TLacault)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlacault&layout=compact&langs_count=6&theme=nord)](https://github.com/TLacault) -->
+
+[![stats](https://github-readme-stats.vercel.app/api?username=tlacault&theme=nord&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/TLacault)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlacault&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=tlacault&theme=nord&hide_border=false)<br/>
 </p>
 
 <hr>
