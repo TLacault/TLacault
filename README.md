@@ -12,7 +12,8 @@ Passionate about Productivity 📌 and Automation ⚙️</h3>
 <h2>About Me 👨🏻‍💻</h2>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
 min-width="340px" max-width="400px" width="340px" align="right" alt="Computador">
-I first studied in a private programming school for 2 years. There, I learned few languages like <strong>Bash / Shell Scripting</strong>, <strong>C</strong>, <strong>C++</strong>, <strong>Python</strong>, <strong>Docker</strong>. I also entered <strong>unix</strong> world and never left it since 2020. Btw, been using an <strong>[Arch linux based](https://garudalinux.org/)</strong> distribution for a while now.
+<p align="left">
+I first studied in a private programming school for 2 years. There, I learned few languages like <strong>Bash / Shell Scripting</strong>, <strong>C</strong>, <strong>C++</strong>, <strong>Python</strong>, <strong>Docker</strong>. I also entered <strong>unix</strong> world and never left it since 2020. Btw, been using an <strong>Arch linux</strong> based distribution for a while now.
 
 I'm currently studying at university, where I'm learning a lot about software development. Will graduate in 2026.
 
@@ -20,6 +21,7 @@ I have worked for 6 months as an <strong>[intern application developer](https://
 Used <strong>JavaScript</strong> and <strong>JSON</strong> to build a car dashboard, <strong>Markdown</strong> and <strong>Node-RED</strong> to create a diagnostic system based on a car sensor's alerts and data.
 
 I'm passionate about <strong>[productivity tools](https://www.notion.so/)</strong>, <strong>[unix customization](https://www.reddit.com/r/unixporn/)</strong>, and <strong>[automation scripts](https://github.com/TLacault/dotfile-manager)</strong>.
+</p>
 
 <p align="left">
 <h2>Technologies & Tools 💻</h2>
