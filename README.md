@@ -1,6 +1,6 @@
 
 <p align="center">
-<h3>Hi 👋🏻, I'm Tim Lacault</h3>
+<h2 align="center">Hi 👋🏻, I'm Tim Lacault</h2>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@dev-tlacault.eu?)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tim-lacault/)
@@ -13,7 +13,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
 min-width="340px" max-width="400px" width="340px" align="right" alt="Computador">
 <p align="left">
-<h3>About Me</h3>
+<h2>About Me</h2>
 
 I'm a <strong>junior developer</strong> and <strong>IT student</strong> passionate about productivity and automation.
 
@@ -29,10 +29,12 @@ I'm passionate about <strong>[productivity tools](https://www.notion.so/)</stron
 
 <hr>
 
-<h3>Some Stats</h3>
-![](https://github-readme-stats.vercel.app/api?username=tlacault&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tlacault&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tlacault&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="left">
+<h2>Some Stats</h2>
+![stats](https://github-readme-stats.vercel.app/api?username=tlacault&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![languages](https://github-readme-streak-stats.herokuapp.com/?user=tlacault&theme=nord&hide_border=false)<br/>
+![streak](https://github-readme-stats.vercel.app/api/top-langs/?username=tlacault&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</p>
 
 <hr>
 
