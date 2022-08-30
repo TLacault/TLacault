@@ -4,7 +4,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@dev-tlacault.eu?)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tim-lacault/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15234695)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15234695)
 
 </p>
 
@@ -32,12 +32,9 @@ I'm passionate about <strong>[productivity tools](https://www.notion.so/)</stron
 <p align="left">
 <h2>Some Stats</h2>
 
-<!-- [<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tlacault&count_private=true&theme=nord&show_icons=true"/>](https://github.com/TLacault)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlacault&layout=compact&langs_count=6&theme=nord)](https://github.com/TLacault) -->
-
 [![stats](https://github-readme-stats.vercel.app/api?username=tlacault&theme=nord&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/TLacault)
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlacault&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=tlacault&theme=nord&hide_border=false)<br/>
+[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlacault&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/TLacault)
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=tlacault&theme=nord&hide_border=false)](https://github.com/TLacault)
 </p>
 
 <hr>
