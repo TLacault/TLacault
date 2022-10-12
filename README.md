@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋🏻, I'm Tim Lacault</h2>
-<h3 align="center">Junior Dev & IT Student</br>
+<h3 align="center">Developer & CS Student</br>
 Passionate about Productivity and Automation</h3>
 <p align="center">
 <a href="mailto:contact@dev-tlacault.eu?" target="_blank"><img alt="" src="https://img.shields.io/badge/CONTACT-ME-blue?style=for-the-badge&logo=appveyor&logo=false&labelColor=4C566A&color=D8DEE9" style="vertical-align:center"/> </a>
