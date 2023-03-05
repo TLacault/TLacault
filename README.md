@@ -19,7 +19,7 @@ Discovering new technologies and learning new skills is what motivates me.
 * **Shell Programming** : Bash > **[DotFile Manager](https://github.com/TLacault/dotfile-manager)**, **[CMake Tools](https://github.com/TLacault/make-tools)**
 * **Network Programming** : Python > TCP protocol **[multi-client IRC chat](https://github.com/TLacault/IRC-Cord)**
 
-You might want to look at my **[Portfolio](https://tim-lacault.emi.u-bordeaux.fr/)** to see some of my work
+You might want to look at my **[Portfolio](https://tim-lacault.emi.u-bordeaux.fr/)** to see some of my work.
 You can also see my studies and work experience on **[LinkedIn](https://www.linkedin.com/in/tim-lacault/?locale=en_US)**.
 
 ## Technologies & Tools
