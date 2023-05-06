@@ -3,7 +3,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=ECEFF4&color=3B4252&labelColor=3B4252)](https://github.com/TLacault) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ECEFF4&color=3B4252&labelColor=3B4252)](https://www.linkedin.com/in/tim-lacault/?locale=en_US) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=mail.ru&logoColor=ECEFF4&color=3B4252&labelColor=3B4252)](mailto:contact@timlacault.dev?)
 
 ## About Me 👨🏻‍💻
-<picture> <img align="right" src="https://github.com/TLacault/TLacault/blob/main/img/working.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/TLacault/TLacault/blob/main/img/working.gif?raw=true" width = 200px></picture>
 
 I'm a passionate **Computer Science student** actively seeking a **software developer** internship opportunity.
 With a solid 4-year programming background and completion of a **[5-month development internship](https://github.com/TLacault/dev_internship)**.
