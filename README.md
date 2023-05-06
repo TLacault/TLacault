@@ -5,7 +5,7 @@
 ## About Me 👨🏻‍💻
 <picture> <img align="right" src="https://github.com/TLacault/TLacault/blob/main/img/working.gif?raw=true" width = 200px></picture>
 
-I'm a passionate **Computer Science student** actively seeking a **software developer** internship opportunity.
+I'm a passionate **Computer Science student** actively seeking a **software developer internship** opportunity.
 With a solid 4-year programming background and completion of a **[5-month development internship](https://github.com/TLacault/dev_internship)**.
 I love turning complex problems into elegant solutions and I continuously engage in various projects to enhance my skills and expand my knowledge in software development.
 
@@ -23,7 +23,7 @@ TCP-IP ([multi-client IRC chat](https://github.com/TLacault/IRC-Cord)), MQTT (in
 Checkout my **[Portfolio](https://timlacault.dev/)** to see some **projects** I've worked on.<br>
 You can also find my **studies** and **work experience** on **[LinkedIn](https://www.linkedin.com/in/tim-lacault/?locale=en_US)**.
 
-## Technologies & Tools 🛠️
+## Technologies & Tools 🔮
 
 <!-- * **Programming Languages** -->
 
