@@ -5,8 +5,7 @@
 ## About Me 👨🏻‍💻
 <picture> <img align="right" src="https://github.com/TLacault/TLacault/blob/main/img/working.gif?raw=true" width = 200px></picture>
 
-I'm a passionate **Computer Science student** actively seeking a **software developer internship** opportunity.
-With a solid 4-year programming background and completion of a **[5-month development internship](https://github.com/TLacault/dev_internship)**.
+I'm a passionate **Computer Science student** with a solid 4-year programming background and completion of a **[5-month development internship](https://github.com/TLacault/dev_internship)**. Actively seeking a **software developer internship** opportunity.
 I love turning complex problems into elegant solutions and I continuously engage in various projects to enhance my skills and expand my knowledge in software development.
 
 <!-- * **Object-Oriented Programming** [C++, Java, Python]<br>
