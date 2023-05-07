@@ -1,6 +1,25 @@
-### Hi, I'm Tim Lacault 👋🏻
+<h3 align="center"> Hi, I'm Tim Lacault 👋🏻<h3>
 
-[![Website](https://img.shields.io/badge/WEBSITE-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=ECEFF4&color=3B4252&labelColor=3B4252)](https://timlacault.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ECEFF4&color=3B4252&labelColor=3B4252)](https://www.linkedin.com/in/tim-lacault/?locale=en_US) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=mail.ru&logoColor=ECEFF4&color=3B4252&labelColor=3B4252)](mailto:contact@timlacault.dev?) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=ECEFF4&color=3B4252&labelColor=3B4252)](https://github.com/TLacault) 
+<picture> <img align="center" src="https://github.com/TLacault/TLacault/blob/main/img/banner.png?raw=true"></picture>
+
+<div align="center">
+    <a href="https://timlacault.dev">
+        <img src="https://img.shields.io/badge/WEBSITE-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=ECEFF4&color=3B4252&labelColor=3B4252">
+    </a>
+    <a href="https://www.linkedin.com/in/tim-lacault/?locale=en_US">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ECEFF4&color=3B4252&labelColor=3B4252">
+    </a>
+    <a href="mailto:contact@timlacault.dev?">
+        <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=mail.ru&logoColor=ECEFF4&color=3B4252&labelColor=3B4252">
+    </a>
+    <a href="https://github.com/TLacault">
+        <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=ECEFF4&color=3B4252&labelColor=3B4252">
+    </a>
+</div>
+
+
+<!-- [![Website](https://img.shields.io/badge/WEBSITE-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=ECEFF4&color=3B4252&labelColor=3B4252)](https://timlacault.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ECEFF4&color=3B4252&labelColor=3B4252)](https://www.linkedin.com/in/tim-lacault/?locale=en_US) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=mail.ru&logoColor=ECEFF4&color=3B4252&labelColor=3B4252)](mailto:contact@timlacault.dev?) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=ECEFF4&color=3B4252&labelColor=3B4252)](https://github.com/TLacault) -->
+
 
 ## About Me 👨🏻‍💻
 <picture> <img align="right" src="https://github.com/TLacault/TLacault/blob/main/img/working.gif?raw=true" width = 200px></picture>
