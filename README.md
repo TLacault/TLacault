@@ -23,7 +23,7 @@
 ## About Me 👨🏻‍💻
 <picture> <img align="right" src="https://github.com/TLacault/TLacault/blob/main/img/working.gif?raw=true" width = 200px></picture>
 
-I'm a passionate **Computer Science student** with a solid 4-year programming background and completion of a **[5-month development internship](https://github.com/TLacault/dev_internship)**. Actively seeking a **software developer internship** opportunity.
+I'm a passionate **Computer Science student** with a solid 4-year programming background and completion of a **[5-month development internship](https://github.com/TLacault/dev_internship)**.
 I love turning complex problems into elegant solutions and I continuously engage in various projects to enhance my skills and expand my knowledge in software development.
 
 <!-- * **Object-Oriented Programming** [C++, Java, Python]<br>
@@ -58,5 +58,8 @@ You can also find my **studies** and **work experience** on **[LinkedIn](https:/
 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=ECEFF4&color=3B4252&labelColor=3B4252)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=ECEFF4&color=3B4252&labelColor=3B4252)](https://github.com/TLacault) [![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=ECEFF4&color=3B4252&labelColor=3B4252)](https://gitlab.com/) [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=ECEFF4&color=3B4252&labelColor=3B4252)](https://www.docker.com/) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=ECEFF4&color=3B4252&labelColor=3B4252)](https://www.linux.org/) [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=ECEFF4&style=for-the-badge&color=3B4252&labelColor=3B4252)](https://archlinux.org/)
 
+<!-- * [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TLacault&theme=nord&show_icons=true&hide_border=false&layout=compact)](https://github.com/TLacault) -->
+
 ## GitHub Stats 📈
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TLacault&theme=nord&show_icons=true&hide_border=false&layout=compact)](https://github.com/TLacault) [![streak](https://github-readme-streak-stats.herokuapp.com/?user=tlacault&theme=nord&hide_border=false)](https://github.com/TLacault)
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=tlacault&theme=nord&hide_border=false)](https://github.com/TLacault)<br>
+![LeetCode Stats](https://leetcard.jacoblin.cool/TLacault?theme=nord&font=Nunito&ext=activity) 
