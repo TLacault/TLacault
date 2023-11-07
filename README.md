@@ -62,4 +62,4 @@ You can also find my **studies** and **work experience** on **[LinkedIn](https:/
 
 ## GitHub Stats 📈
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=tlacault&theme=nord&hide_border=false)](https://github.com/TLacault)<br>
-![LeetCode Stats](https://leetcard.jacoblin.cool/TLacault?theme=nord&font=Nunito&ext=activity) 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/TLacault?theme=nord&font=Nunito&ext=activity)](https://leetcode.com/TLacault/)
